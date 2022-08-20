@@ -1210,6 +1210,8 @@ footer {
 
   .blog_container .blogs .blog {
     width: 90%;
+    margin-bottom: 3rem;
+
   }
 
   .blog_container .blogs .blog img {
