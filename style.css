@@ -568,6 +568,7 @@ nav {
   justify-content: space-between;
   flex-direction: column;
   padding: 1rem;
+  border-radius: 7px;
   box-shadow: var(--box-shadow);
 }
 
